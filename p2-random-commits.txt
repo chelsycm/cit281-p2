@@ -1,0 +1,5 @@
+058a349efaede41c60abfc260f8cf4b8e0f97d60 Added getSortedString()
+b1c005f6b4a1ad7b9daf7e63118bd1209da922df Added getRandomString()
+42381adf8acab1fa7c44763446323f996c284fc1 Added getRandomLetter()
+9eccdae7647d8470688ff30b6a98cbc42551feeb First commit
+6c6a199b63a41d457f2d549aeefc24089ea201d6 First commit
